@@ -1,0 +1,22 @@
+#base "mvm/base_powerupbottle.res"
+"Resource/UI/HudItemEffectMeter_PowerupBottles.res"
+{
+	HudItemEffectMeter
+	{
+	}
+	"ItemEffectMeterBG"
+	{		
+	}
+	"ItemEffectIcon"
+	{
+	}
+	"ItemEffectMeterLabel"
+	{
+	}
+	"ItemEffectMeter"
+	{
+	}					
+	"ItemEffectMeterCount"
+	{
+	}
+}

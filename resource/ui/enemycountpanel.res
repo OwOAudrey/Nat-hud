@@ -1,0 +1,19 @@
+#base "mvm/base_enemycountpanel.res"
+"Resource/UI/EnemyCountPanel.res"
+{	
+	"EnemyCountPanel"
+	{
+	}
+	"EnemyCountImage"
+	{
+	}
+	"EnemyCountImageBG"
+	{
+	}
+	"EnemyCountCritImageBG"
+	{
+	}
+	"EnemyCount"
+	{
+	}
+}

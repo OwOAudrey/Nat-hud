@@ -1,0 +1,22 @@
+#base "mvm/base_wavestatuspanel.res"
+"Resource/UI/WaveStatusPanel.res"
+{
+	"Background"
+	{
+	}
+	"WaveCountLabel"
+	{
+	}
+	"SeparatorBar"
+	{
+	}
+	"SupportLabel"
+	{	
+	}
+	"ProgressBar"
+	{
+	}
+	"ProgressBarBG"
+	{
+	}
+}
