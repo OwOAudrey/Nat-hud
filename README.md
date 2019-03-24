@@ -17,5 +17,6 @@ My Modifications
 - Made Scoreboard in 12v12 format for 16:10 apect ratio displays
 - Removed sniper scope entirely
 License
-==============
+========
+
 Gnu GPL v3
