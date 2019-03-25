@@ -5,7 +5,10 @@ A TF2 Hud forked from [Pigby/uwui](https://github.com/Pigby/uwui)
 Then forked from [SohamG/uwui-v2](https://github.com/SohamG/uwui-v2)
 
 Credits to Pigby and SohamG Respectively for making and editing the hud.
+
 install the fonts in /resource/fonts for it to work properly
+==========
+
 Soham's Modifications
 ========
 - Added Party chat and the button to open it (Missing from upstream)
