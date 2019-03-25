@@ -20,8 +20,7 @@ My Modifications
 Non Hud side of things
 ========
 The following is required in an autoexec config.
->alias remove_scope "sv_cheats 1; testhudanim scoperemoval"
->remove_scope
+>alias remove_scope "sv_cheats 1; testhudanim scoperemoval" ; remove_scope
 
 License
 ========
