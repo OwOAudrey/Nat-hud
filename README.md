@@ -2,7 +2,7 @@ uwui-Custom Fork by Audrey
 ==========
 
 A TF2 Hud forked from [Pigby/uwui](https://github.com/Pigby/uwui)
-Then forked from [SohamG/uwui-v2] (https://github.com/SohamG/uwui-v2)
+Then forked from [SohamG/uwui-v2](https://github.com/SohamG/uwui-v2)
 
 Credits to Pigby for making the hud
 Credits to SohamG for adding some useful feature to the hud
