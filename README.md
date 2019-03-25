@@ -16,6 +16,13 @@ My Modifications
 ========
 - Made Scoreboard in 12v12 format for 16:10 apect ratio displays
 - Removed sniper scope entirely
+![Screenshot](https://user-images.githubusercontent.com/34928493/54888124-4acc9e80-4e68-11e9-8835-fc6d8f648292.png "Screenshot")
+
+Non Hud side of things
+========
+The following is required in an autoexec config.
+>alias remove_scope "sv_cheats 1; testhudanim scoperemoval" ; remove_scope
+
 License
-==============
+========
 Gnu GPL v3
