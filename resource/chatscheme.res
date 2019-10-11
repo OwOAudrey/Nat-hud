@@ -336,7 +336,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Roboto Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"yres"			"480 599"
 				"dropshadow"	"0"
@@ -345,7 +345,7 @@ Scheme
 
 			"2"
 			{
-				"name"			"Roboto Medium"
+				"name"			"Product Sans"
 				"tall"			"16"
 				"yres"			"600 767"
 				"dropshadow"	"0"
@@ -354,7 +354,7 @@ Scheme
 
 			"3"
 			{
-				"name"			"Roboto Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"768 1023"
 				"dropshadow"	"0"
@@ -363,7 +363,7 @@ Scheme
 
 			"4"
 			{
-				"name"			"Roboto Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"1024 1199"
 				"dropshadow"	"0"
@@ -372,7 +372,7 @@ Scheme
 
 			"5"
 			{
-				"name"			"Roboto Medium"
+				"name"			"Product Sans"
 				"tall"			"22"
 				"yres"			"1200 10000"
 				"dropshadow"	"0"
