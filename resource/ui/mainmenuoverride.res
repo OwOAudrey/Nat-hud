@@ -1836,7 +1836,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"font"			"ProductBold10"
-		"labelText"		"NatHud V1"
+		"labelText"		"NatHud V2"
 		"fgcolor"		"white"
 		
 		"bgcolor_override"	"Gray30"
