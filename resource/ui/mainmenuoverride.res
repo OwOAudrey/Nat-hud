@@ -1836,7 +1836,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"font"			"ProductBold10"
-		"labelText"		"NatHud V2"
+		"labelText"		"Nat-Hud V2"
 		"fgcolor"		"white"
 		
 		"bgcolor_override"	"Gray30"
@@ -2143,7 +2143,11 @@
 		}				
 	}
 	
-	
+	"DashboardDimmer"
+	{
+		"wide" "0"
+		"tall" "0"
+	}
 	
 	
 	

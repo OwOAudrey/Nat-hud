@@ -174,7 +174,7 @@ event HudMedicChargedStop
 
 event DamagedPlayer
 {
-	// empty
+RunEvent ScopeRemoval 0.0
 }
 
 //===========================================
@@ -232,3 +232,20 @@ event SuddenDeathLabelPulseRed
 }
 
 //===========================================
+
+event ScopeRemoval
+{
+Animate HudScope Position	"9999 9999" Linear 0.0 0.0
+}
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+
+event CompetitiveGame_RestoreChatWindow
+{
+}
+
+event HudTournament_MoveChatWindow
+{
+}
